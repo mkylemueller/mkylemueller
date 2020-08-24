@@ -1,6 +1,6 @@
 ### Whats up 👋
 
-![](http://gph.is/1cLAnbT)
+![](https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif)
 
 Hi I am **Kyle**, I'm an Infrastructure Engineer for GitHub based in Northern Virginia just outside of Washington, D.C. I work between the Floor and Cloud building data centers physically and in code - my code sucks though so please hold tight. 
 
