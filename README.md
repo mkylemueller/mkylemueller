@@ -2,14 +2,14 @@
 
 ![](https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif)
 
-Hi I am **Kyle**, I'm an Infrastructure Engineer for GitHub based in Northern Virginia just outside of Washington, D.C. I work between the Floor and Cloud building data centers physically and in code - my code sucks though so please hold tight. 
+Hi, my name is **Kyle**, I'm an Infrastructure Engineer for GitHub based in Northern Virginia just outside of Washington, D.C. I work between building data centers physically and in code - my code sucks though so please hold tight.
 
 ### 🌎 Where will we run into each other (pre-covid)
 
 Starting to get more onto the conference scene and enjoy meeting up and talking about topics around intrests in system automation, SRE, monitoring, and more.
 
-- DevOps DC 
-- Velocity Conf 
+- DevOps DC
+- Velocity Conf
 
 **Future Conferences**
 
@@ -30,7 +30,6 @@ Mix of learning and continuing studies;
 
 Working on the following (personal projects, nothing work related)
 
-- Building Site to Site VPN for friends office 
 - Personal Site (Hugo and GitHub Actions)
 - Home Network build 
 
