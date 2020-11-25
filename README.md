@@ -1,7 +1,10 @@
 <center>
 <p align="center">
+
 # 👋 Kyle Mueller 
+
 </p>
+
 ![](https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif)
 
 </center>
