@@ -1,7 +1,7 @@
 <center>
-
+<p align="center">
 # 👋 Kyle Mueller 
-
+</p>
 ![](https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif)
 
 </center>
@@ -21,7 +21,15 @@ I have the honor to work from home (pre-covid) heres some details on the setup i
 ![](https://img.shields.io/badge/Intel-Core_i7_8700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-RTX2080_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### 🌱 Currently Learning
+### 🏗️ Current Work
+
+Personal work and entertainment thats going on at home, nothing too special. 
+
+- Personal Site (Hugo and GitHub Actions)
+- Home Network V3 
+- Webhosting Product
+
+### 📚 Current Learning
 
 Mix of learning and continuing studies; 
 
@@ -31,28 +39,20 @@ Mix of learning and continuing studies;
 - Networking
 - Terraform
 
-### 🌎 Where will we run into each other (pre-covid)
+### 🌎 Travel & Conferences
 
 Starting to get more onto the conference scene and enjoy meeting up and talking about topics around intrests in system automation, SRE, monitoring, and more.
 
-- DevOps DC 
-- Velocity Conf 
+- [DevOps DC](https://www.meetup.com/DevOpsDC/)
+- [Velocity Conf](https://conferences.oreilly.com/velocity/vl-ny.html)
 
 **Future Conferences**
 
-- LISA
-- OpenCompute 
-- NANOG
+- [LISA](https://www.usenix.org/conferences/byname/5) 
+- [OpenCompute](https://www.opencompute.org/events/upcoming-events)
+- [NANOG](https://www.nanog.org/)
 
 
-
-### 🔭 I’m currently working on 
-
-Working on the following (personal projects, nothing work related)
-
-- Building Site to Site VPN for friends office 
-- Personal Site (Hugo and GitHub Actions)
-- Home Network build 
 
 <!--
 **mkylemueller/mkylemueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
