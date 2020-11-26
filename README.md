@@ -16,7 +16,7 @@ Hi I am **Kyle M**, I'm an Infrastructure Engineer here at GitHub! I'm based in 
 I have the honor to work from home (pre-covid) heres some details on the setup in the home office! 
 
 ![](https://github.com/mkylemueller/mkylemueller/blob/master/resources/pictures/D23DCF47-32DC-4F49-A4AC-5027E8AC035F.JPEG)
-
+<!--
 _O = Office Equipment | S = Shared via USB Switch_
 ```
 - Asus ROG PG279Q (Center)
@@ -29,7 +29,7 @@ _O = Office Equipment | S = Shared via USB Switch_
 - Logitech Cam (S)
 - Blue Yeti USB (S)
 - UPLIFT Height Adjustable Standing Desk
-```
+``` -->
 
  ![](https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white) 
  ![](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
@@ -37,7 +37,7 @@ _O = Office Equipment | S = Shared via USB Switch_
 ![](https://img.shields.io/badge/Windows-Custom_PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i7_8700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-RTX2080_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
+<!--
 ```
 - Intel Core i7-8700K Coffee Lake 6-Core
 - MSI Z370 GAMING PRO CARBON
@@ -51,7 +51,7 @@ _O = Office Equipment | S = Shared via USB Switch_
 - EVGA SuperNOVA 750W Platinum
 - NZXT H510
 ```
-
+-->
 ### 🚧 Current Work
 
 Personal work and entertainment thats going on at home, nothing too special. 
