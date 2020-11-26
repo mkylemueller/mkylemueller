@@ -17,8 +17,8 @@ I have the honor to work from home (pre-covid) heres some details on the setup i
 
 ![](https://github.com/mkylemueller/mkylemueller/blob/master/resources/pictures/D23DCF47-32DC-4F49-A4AC-5027E8AC035F.JPEG)
 
-O = Office Equipment | S = Shared via USB Switch
-
+_O = Office Equipment | S = Shared via USB Switch_
+```
 - Asus ROG PG279Q (Center)
 - LG Ultragear 27GL850 (Wings)
 - Ducky Mecha Mini
@@ -29,6 +29,7 @@ O = Office Equipment | S = Shared via USB Switch
 - Logitech Cam (S)
 - Blue Yeti USB (S)
 - UPLIFT Height Adjustable Standing Desk
+```
 
  ![](https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white) 
  ![](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
@@ -37,6 +38,7 @@ O = Office Equipment | S = Shared via USB Switch
 ![](https://img.shields.io/badge/Intel-Core_i7_8700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-RTX2080_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+```
 - Intel Core i7-8700K Coffee Lake 6-Core
 - MSI Z370 GAMING PRO CARBON
 - G.SKILL TridentZ RGB Series 32GB DDR4 3000
@@ -48,6 +50,7 @@ O = Office Equipment | S = Shared via USB Switch
 - Elgato 4k Capture Card
 - EVGA SuperNOVA 750W Platinum
 - NZXT H510
+```
 
 ### 🚧 Current Work
 
