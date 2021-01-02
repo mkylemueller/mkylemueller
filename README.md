@@ -36,14 +36,14 @@ _O = Office Equipment | S = Shared via USB Switch_
 
 ![](https://img.shields.io/badge/Windows-Custom_PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i7_8700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![](https://img.shields.io/badge/NVIDIA-RTX2080_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-RTX2070_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <!--
 ```
 - Intel Core i7-8700K Coffee Lake 6-Core
 - MSI Z370 GAMING PRO CARBON
 - G.SKILL TridentZ RGB Series 32GB DDR4 3000
 - Gigabyte GeForce RTX 2070 8GB 256-Bit GDDR6
-- SAMSUNG 970 EVO M.2 1TB NVME (SSD)
+- SAMSUNG 970 EVO M.2 1TB NVME (SSD)g
 - SAMSUNG 960 EVO M.2 500GB NVMe (SSD)
 - SAMSUNG 860 EVO SATA 500GB (SSD) (OS)
 - Corsair Hydro Series H115i Water/Liquid CPU Cooler
@@ -64,9 +64,9 @@ Personal work and entertainment thats going on at home, nothing too special.
 
     Move Ubiquiti controller to Docker my Firewalla Gold and play with some RazPi monitoring tools. 
 
-- **Webhosting Product**
+- **Azure Terraform**
 
-    A wicked idea I'm working on for some "advanced" user hosting toolset for some friends of mine. 
+    Playing with some Azure credits, doing some testing and building in Azure that I can do in AWS + DigitalOcean. 
 
 ### 📚 Continued Learning
 
