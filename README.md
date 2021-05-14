@@ -9,7 +9,7 @@
 
 </center>
 
-Hi I am **Kyle M**, I'm an Infrastructure Engineer here at GitHub! I'm based in Northern Virginia just outside of Washington, D.C. where I work between the ground and up to the cloud building data centers. Working on both the physical aspect of the hardware servers, network and the code to manage it all - my code sucks though so please hold tight as I continue to learn. 
+Hi I am **Kyle M**, I'm based in Northern Virginia just outside of Washington, D.C. where I work between the ground and up to the cloud building data centers. Working on both the physical aspect of the hardware servers, network and the code to manage it all - my code sucks though so please hold tight as I continue to learn. 
 
 ### 🧰 My Workspace 
 
@@ -35,21 +35,21 @@ _O = Office Equipment | S = Shared via USB Switch_
  ![](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ![](https://img.shields.io/badge/Windows-Custom_PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Intel-Core_i7_8700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/Intel-Core_i9_11900k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-RTX2070_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <!--
 ```
-- Intel Core i7-8700K Coffee Lake 6-Core
-- MSI Z370 GAMING PRO CARBON
-- G.SKILL TridentZ RGB Series 32GB DDR4 3000
+- Intel Core i9-11900K 8-Core
+- MSI MPG Z590 Gaming Carbon WiFi
+- Corsair Vengeance RGB 32GB DDR4 3200
 - Gigabyte GeForce RTX 2070 8GB 256-Bit GDDR6
-- SAMSUNG 970 EVO M.2 1TB NVME (SSD)g
-- SAMSUNG 960 EVO M.2 500GB NVMe (SSD)
-- SAMSUNG 860 EVO SATA 500GB (SSD) (OS)
-- Corsair Hydro Series H115i Water/Liquid CPU Cooler
+- Western Digital SN850 2TB NVME
+- SAMSUNG 970 EVO M.2 1TB NVME (SSD)
+- SAMSUNG 870 1TB (SSD)
+- Corsair Hydro Series H110i Water/Liquid CPU Cooler
 - Elgato 4k Capture Card
 - EVGA SuperNOVA 750W Platinum
-- NZXT H510
+- Corsair 4000D Airflow
 ```
 -->
 ### 🚧 Current Work
