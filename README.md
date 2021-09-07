@@ -80,7 +80,11 @@ Mix areas of learning and continuing studies within the following subject areas;
 - Networking
 - Terraform
 
-Checkout the notebook for collected articles.
+### 📓 Notebook 
+
+Checkout the [📓 Repo Notebook](https://github.com/mkylemueller/mkylemueller/blob/master/notebooks/notebook.md) for shared information and content. 
+
+
 
 ### 🌎 Travel & Conferences
 
