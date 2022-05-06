@@ -9,13 +9,13 @@
 
 </center>
 
-Hi I am **Kyle M**, I'm based in Northern Virginia just outside of Washington, D.C., recently changed jobs to DevOps/Infrastructure Engineer dealing with some R&D environments. Working on both the physical aspect of the hardware servers, network and the code to manage it all - my code sucks though so please hold tight as I continue to learn. 
+Hi I am **Kyle M**, I'm based in Northern Virginia just outside of Washington, D.C., to DevOps/Infrastructure Engineer. Working on both the physical aspect of the hardware servers, network and the code to manage it all - my code sucks though so please hold tight as I continue to grow and learn. 
 
 Check out my 🌳 [linktree](https://linktr.ee/lostcuaz) for refferals, recommendations and social links! 
 
 ### 🧰 My Workspace 
 
-This is my home office setup :D 
+This is my home office, I am blessed being able to work in this space, what you see here is probably version 7. 
 
 ![](https://github.com/mkylemueller/mkylemueller/blob/master/resources/pictures/D23DCF47-32DC-4F49-A4AC-5027E8AC035F.JPEG)
 <!--
@@ -38,7 +38,7 @@ _O = Office Equipment | S = Shared via USB Switch_
 
 ![](https://img.shields.io/badge/Windows-Custom_PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i9_11900k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![](https://img.shields.io/badge/NVIDIA-RTX2070_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-RTX3070_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <!--
 ```
 - Intel Core i9-11900K 8-Core
@@ -58,17 +58,17 @@ _O = Office Equipment | S = Shared via USB Switch_
 
 Personal work and entertainment thats going on at home, nothing too special. 
 
-- **Personal Site** (Hugo and GitHub Actions)
+- **Personal Site** (Hugo, Vercel, GitHub Actions)
 
     Build personal portfolio site for some feature and some photography topics.
-
-- **Home Network V3**
-
-    Move Ubiquiti controller to Docker my Firewalla Gold and play with some RazPi monitoring tools. 
 
 - **Azure Terraform**
 
     Playing with some Azure credits, doing some testing and building in Azure that I can do in AWS + DigitalOcean. 
+
+- **Home Mini Server**
+
+    Build out my HP ProDesk 600 G2 with Rocky Linux for some hardware testing with automation using Tinkerbell, Containers and more. 
 
 ### 📚 Continued Learning
 
@@ -82,7 +82,7 @@ Mix areas of learning and continuing studies within the following subject areas;
 
 ### 📓 Notebook 
 
-Checkout the [📓 Repo Notebook](https://github.com/mkylemueller/mkylemueller/blob/master/notebooks/notebook.md) for shared information and content. 
+Checkout the [📓 Learning Notebook](https://github.com/mkylemueller/share_learning) for shared information and content on learning from various sources. 
 
 
 
