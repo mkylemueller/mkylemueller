@@ -19,6 +19,8 @@ Table of Contents
 
 [https://www.digitalocean.com/community/tutorial_series/how-to-write-ansible-playbooks](https://www.digitalocean.com/community/tutorial_series/how-to-write-ansible-playbooks)
 
+[https://github.com/geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops)
+
 # Bash
 
 [https://will-keleher.com/posts/5-Useful-Bash-Patterns.html](https://will-keleher.com/posts/5-Useful-Bash-Patterns.html)
@@ -50,6 +52,8 @@ Table of Contents
 # Kafka
 [https://www.pankajtanwar.in/blog/the-basics-you-need-to-know-about-kafka-graphic-explanation-ahead](https://www.pankajtanwar.in/blog/the-basics-you-need-to-know-about-kafka-graphic-explanation-ahead )
 
+# Kubernetes 
+[https://learnkubernetes.withgoogle.com/#gateway-api](https://learnkubernetes.withgoogle.com/#gateway-api)
 
 # Networking
 
@@ -92,10 +96,36 @@ BGP Datacenter [https://www.usenix.org/conference/nsdi21/presentation/abhashkuma
 
 [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings)
 
+# Terraform
+
 # SRE
 
 [https://github.com/linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
 
+[https://github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre)
+
+[https://github.com/upgundecha/howtheysre](https://github.com/upgundecha/howtheysre)
+
+# SysAdmin
+
+[https://github.com/trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
+
+# Vault
+
+[https://github.com/b1tsized/vault-tutorial](https://github.com/b1tsized/vault-tutorial)
+
 # Writing
 
 [https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/)
+
+# OTHER LISTS/NOTES/COLLECTIONS 
+
+[https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+[https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
+[https://github.com/bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)
+
+[https://github.com/Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)
+
+[https://github.com/sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
