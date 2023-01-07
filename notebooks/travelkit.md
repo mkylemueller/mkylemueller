@@ -12,8 +12,8 @@ Savior Equipment Multi-Purpose EDC Admin MOLLE Pouch Utility Tools
 
 - Anker 736 Charger (Nano II 100W) 2x USB-C 1x USB 
 - Anker USB-C Hub Adapter, 5-in-1 HDMI, Ethernet, 3 USB 3.0 
-- Final Audio A3000 IEM 
-- Iphone Lightning InEar Headphones
+- Final Audio A3000 IEM (Personal headphone choice)
+- Iphone Lightning InEar Headphones (Backups)
 - Solar USB 8-10k mAh 
 - Streamlight 66604 250-Lumen MicroStream USB Rechargeable Pocket Flashlight
 - (OLD) USB extension 

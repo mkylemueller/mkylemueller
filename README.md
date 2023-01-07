@@ -9,7 +9,7 @@
 
 </center>
 
-Hi I am **Kyle M**, I'm based in Northern Virginia just outside of Washington, D.C., to DevOps/Infrastructure Engineer. Working on both the physical aspect of the hardware servers, network and the code to manage it all - my code sucks though so please hold tight as I continue to grow and learn. 
+Hi, I am **Kyle M**; I'm based in Northern Virginia, just outside of Washington, D.C., where my daily role as Infrastructure Engineer (DevOps, Platform, SRE... w/e its called this week). I enjoy working on both the physical aspect of the hardware and the code to manage it all - my coding could improve, so please hold tight as I continue to grow and learn. 
 
 Check out my 🌳 [linktree](https://linktr.ee/lostcuaz) for refferals, recommendations and social links! 
 
@@ -39,12 +39,15 @@ _O = Office Equipment | S = Shared via USB Switch_
 ![](https://img.shields.io/badge/Windows-Custom_PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i9_11900k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-RTX3070_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![](https://img.shields.io/badge/System76-Pangolin-ef0707?style=for-the-badge&logo=system76&logoColor=white)
+![](https://img.shields.io/badge/AMD-Ryzen__5700U_-ef0707?style=for-the-badge&logo=system76&logoColor=white)
 <!--
 ```
 - Intel Core i9-11900K 8-Core
 - MSI MPG Z590 Gaming Carbon WiFi
 - Corsair Vengeance RGB 32GB DDR4 3200
-- Gigabyte GeForce RTX 2070 8GB 256-Bit GDDR6
+- Gigabyte GeForce RTX 3070Ti
 - Western Digital SN850 2TB NVME
 - SAMSUNG 970 EVO M.2 1TB NVME (SSD)
 - SAMSUNG 870 1TB (SSD)
@@ -58,7 +61,7 @@ _O = Office Equipment | S = Shared via USB Switch_
 
 Personal work and entertainment thats going on at home, nothing too special. 
 
-- **Personal Site** (Hugo, Vercel, GitHub Actions)
+- **Personal Site** (Hugo, Vercel, Node, GitHub Actions)
 
     Build personal portfolio site for some feature and some photography topics.
 
@@ -66,9 +69,13 @@ Personal work and entertainment thats going on at home, nothing too special.
 
     Playing with some Azure credits, doing some testing and building in Azure that I can do in AWS + DigitalOcean. 
 
+- **Hashicorp Tools**
+
+    Been working with Terraform, Vault and other tools from Hashicorp but want to continue to build out my expertise. 
+
 - **Home Mini Server**
 
-    Build out my HP ProDesk 600 G2 with Rocky Linux for some hardware testing with automation using Tinkerbell, Containers and more. 
+    Build out my HP ProDesk 600 G2 with Rocky Linux and the RasPi Cluser (3 of 4 raspi B+ 4GB) for some hardware testing with automation using Tinkerbell, Containers and more. 
 
 ### 📚 Continued Learning
 
@@ -82,9 +89,7 @@ Mix areas of learning and continuing studies within the following subject areas;
 
 ### 📓 Notebook 
 
-Checkout the [📓 Learning Notebook](https://github.com/mkylemueller/share_learning) for shared information and content on learning from various sources. 
-
-
+Checkout the [📓 Learning Notebook](https://github.com/mkylemueller/mkylemueller/notebooks/learning.md) for shared information and content on learning from various sources. 
 
 ### 🌎 Travel & Conferences
 
@@ -92,6 +97,10 @@ Starting to get more onto the conference scene and enjoy meeting up and talking 
 
 - [DevOps DC](https://www.meetup.com/DevOpsDC/)
 - [Velocity Conf](https://conferences.oreilly.com/velocity/vl-ny.html)
+
+Check out my recommended [💼 Travel Kit](https://github.com/mkylemueller/mkylemueller/notebooks/travelkit.md) for minimizing your carried chargers and cables for work or play! 
+
+
 
 **Future Conferences**
 
