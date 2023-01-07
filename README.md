@@ -41,7 +41,7 @@ _O = Office Equipment | S = Shared via USB Switch_
 ![](https://img.shields.io/badge/NVIDIA-RTX3070_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ![](https://img.shields.io/badge/System76-Pangolin-ef0707?style=for-the-badge&logo=system76&logoColor=white)
-![](https://img.shields.io/badge/AMD-Ryzen__5700U_-ef0707?style=for-the-badge&logo=system76&logoColor=white)
+![](https://img.shields.io/badge/AMD-Ryzen__5700U_-ef0707?style=for-the-badge&logo=amd&logoColor=white)
 <!--
 ```
 - Intel Core i9-11900K 8-Core
