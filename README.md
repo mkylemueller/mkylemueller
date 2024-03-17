@@ -9,7 +9,7 @@
 
 </center>
 
-Hi, I am **Kyle M**; I'm based in Northern Virginia, just outside of Washington, D.C., where my daily role as Infrastructure Engineer (DevOps, Platform, SRE... w/e its called this week). I enjoy working on both the physical aspect of the hardware and the code to manage it all - my coding could improve, so please hold tight as I continue to grow and learn. 
+Hi, I am **Kyle M**; I'm based in Northern Virginia, just outside of Washington, D.C., where my daily role as Staff Infrastructure Engineer (DevOps, Platform, SRE... w/e its called this week). I enjoy working on both the physical aspect of the hardware and the code to manage it all - my coding could improve, so please hold tight as I continue to grow and learn. 
 
 Check out my 🌳 [linktree](https://linktr.ee/lostcuaz) for refferals, recommendations and social links! 
 
@@ -32,16 +32,28 @@ _O = Office Equipment | S = Shared via USB Switch_
 - Blue Yeti USB (S)
 - UPLIFT Height Adjustable Standing Desk
 ``` -->
+MacBooks Daily Drivers
 
- ![](https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white) 
+ ![](https://img.shields.io/badge/Apple-MacBook_Air_2023-999999?style=for-the-badge&logo=apple&logoColor=white)
  ![](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+Windows Games :D
 
 ![](https://img.shields.io/badge/Windows-Custom_PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i9_11900k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-RTX3070_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+Linux Dev Box
+
 ![](https://img.shields.io/badge/System76-Pangolin-ef0707?style=for-the-badge&logo=system76&logoColor=white)
 ![](https://img.shields.io/badge/AMD-Ryzen__5700U_-ef0707?style=for-the-badge&logo=amd&logoColor=white)
+
+Homelab Cluster (3x)
+
+![](https://img.shields.io/badge/Lenovo-M900-E2231A?style=for-the-badge&logo=lenovo&logoColor=white) 
+![](https://img.shields.io/badge/Intel-Core_i5_6500T-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
+
 <!--
 ```
 - Intel Core i9-11900K 8-Core
@@ -73,9 +85,6 @@ Personal work and entertainment thats going on at home, nothing too special.
 
     Been working with Terraform, Vault and other tools from Hashicorp but want to continue to build out my expertise. 
 
-- **Home Mini Server**
-
-    Build out my HP ProDesk 600 G2 with Rocky Linux and the RasPi Cluser (3 of 4 raspi B+ 4GB) for some hardware testing with automation using Tinkerbell, Containers and more. 
 
 ### 📚 Continued Learning
 
@@ -83,6 +92,7 @@ Mix areas of learning and continuing studies within the following subject areas;
 
 - Python
 - Ansible
+- Vault
 - Security
 - Networking
 - Terraform
@@ -101,12 +111,13 @@ Starting to get more onto the conference scene and enjoy meeting up and talking 
 Check out my recommended [💼 Travel Kit](https://github.com/mkylemueller/mkylemueller/notebooks/travelkit.md) for minimizing your carried chargers and cables for work or play! 
 
 
-
 **Future Conferences**
 
 - [LISA](https://www.usenix.org/conferences/byname/5) 
 - [OpenCompute](https://www.opencompute.org/events/upcoming-events)
 - [NANOG](https://www.nanog.org/)
+
+Looking at other conferences this year to attend related to SRE and vendors I work closely with. 
 
 **Find Me In**
 
