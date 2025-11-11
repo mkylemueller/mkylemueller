@@ -1,7 +1,7 @@
 <center>
 <p align="center">
 
-# 👋 Kyle Mueller 
+# 👋 Hi I am Kyle Mueller 
 
 </p>
 
@@ -9,7 +9,7 @@
 
 </center>
 
-Hi, I'm **Kyle Mueller** — a Staff Infrastructure Engineer based in Northern Virginia, just outside Washington, D.C. I specialize in DevOps, Platform Engineering, and SRE (whatever it's called this week). I'm passionate about working with both hardware infrastructure and the code that orchestrates it all. Always learning, always building.
+Hi, I'm **Kyle M** — a Staff Infrastructure Engineer based in Northern Virginia, just outside Washington, D.C. I specialize in DevOps, Platform Engineering, and SRE (whatever it's called this week). I'm passionate about working with both hardware infrastructure and the code that orchestrates it all. Always learning, always building.
 
 Check out my 🌳 [Linktree](https://linktr.ee/lostcuaz) for referrals, recommendations, and social links! 
 
@@ -86,6 +86,7 @@ Currently expanding skills in:
 - **Security** — Infrastructure hardening
 - **Networking** — BGP, datacenter architecture
 - **Terraform** — Infrastructure as Code
+- **Consul** - Service Mesh
 
 ### 📓 Resources
 
@@ -96,15 +97,17 @@ Check out my [📓 Learning Notebook](./notebooks/learning.md) — a curated col
 Active in the DevOps and SRE community, attending conferences and meetups focused on infrastructure automation, monitoring, and reliability engineering.
 
 **Current Events**
-- [DevOps DC](https://www.meetup.com/DevOpsDC/) — Local meetup group
+- No current plans 
 
 **On My Radar**
 - [LISA](https://www.usenix.org/conferences/byname/5) — Systems administration
 - [OpenCompute](https://www.opencompute.org/events/upcoming-events) — Open hardware
 - [NANOG](https://www.nanog.org/) — Network operations
+- [OracleAI](https://www.oracle.com/ai-world/) - Oracle Cloud & AI 
 
-**Retired**
+**Retired Events**
 - [Velocity Conf](https://conferences.oreilly.com/velocity/vl-ny.html) — Performance and reliability
+- [DevOps DC](https://www.meetup.com/DevOpsDC/) — Local meetup group
 
 **Where to Find Me**
 
